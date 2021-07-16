@@ -1,0 +1,10 @@
+# whitelist url's in addition to https://github.com/anudeepND/whitelist
+
+notifications.google.com	
+accounts.google.com	
+mail.google.com	
+mail.privateemail.com	
+imap-mail.outlook.com	
+mail.live.com	
+outlook.com	
+google.com
