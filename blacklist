@@ -1,14 +1,12 @@
-# my black list for pihole, mainly for 4od atm
-
-cdn.http.anno.channel4.com	
-webstats.channel4.com	
-monitor.channel4.com	
-channel4.sc.omtrdc.net	
-2a7e9.v.fwmrm.net	
+cdn.http.anno.channel4.com
+webstats.channel4.com
+monitor.channel4.com
+channel4.sc.omtrdc.net
+2a7e9.v.fwmrm.net
 2356e.v.fwmrm.net	
-ads-pres.channel4.com	
-cdn.ss.anno.channel4.com	
+ads-pres.channel4.com
+cdn.ss.anno.channel4.com
 p.videologygroup.com
-securecdn.videologygroup.com	
-toots-a.akamaihd.net	
+securecdn.videologygroup.com
+toots-a.akamaihd.net
 trk-euwest.tidaltv.com
